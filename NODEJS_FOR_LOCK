@@ -1,0 +1,4 @@
+The version of nodejs installed to build the last iteration of the package-lock.json file was:
+v14.17.3
+
+(installed with "nvm")
