@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "async": "3.2.1",
     "color-name": "1.1.4",
     "color-string": "1.5.5",
     "configurable-http-proxy": "4.2.3",
