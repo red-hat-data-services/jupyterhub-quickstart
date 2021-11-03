@@ -2,10 +2,14 @@
   "name": "jupyterhub-quickstart",
   "version": "1.0.0",
   "main": "index.js",
+  "comments": {
+    "colorspace": "fixed to 1.1.2 because it is an indirect dependency of @dabh/diagnostics which is specifying 1.1.x"
+  },
   "dependencies": {
     "async": "3.2.1",
     "color-name": "1.1.4",
     "color-string": "1.5.5",
+    "colorspace": "1.1.2",
     "configurable-http-proxy": "4.2.3",
     "core-util-is": "1.0.3",
     "fecha": "4.2.1",
