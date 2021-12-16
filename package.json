@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "comments": {
-    "colorspace": "fixed to 1.1.2 because it is an indirect dependency of @dabh/diagnostics which is specifying 1.1.x"
+    "colorspace": "fixed to 1.1.2 because it is an indirect dependency of @dabh/diagnostics which is specifying 1.1.x",
+    "strftime": "fixed to 0.10.0 because it is an indirect dependency of @configurable-http-proxy"
   },
   "dependencies": {
     "async": "3.2.1",
@@ -14,6 +15,7 @@
     "core-util-is": "1.0.3",
     "fecha": "4.2.1",
     "follow-redirects": "1.13.3",
-    "is-stream": "2.0.1"
+    "is-stream": "2.0.1",
+    "strftime": "0.10.0"
   }
 }
