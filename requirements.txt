@@ -146,7 +146,7 @@ jupyterhub-ldapauthenticator==1.2.2 \
 jupyterhub-tmpauthenticator==0.6 \
     --hash=sha256:1438614e72583dc1c70464a37212e5faacbf3e43f72416c1113474deaf0f9d18
     # via -r requirements.in
-jupyterhub==1.2.1 \
+jupyterhub==4.1.6 \
     --hash=sha256:1abc70ee6c8af8d1851c97e2ab29861f3ffcd6031332aaadab6a6cbc5910b112 \
     --hash=sha256:4d24e064db10c1d070696c7a3dee55739a24db6990051aa296e708910d1b14b9
     # via
